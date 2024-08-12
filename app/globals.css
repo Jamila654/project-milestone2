@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.underline1:hover{
+  text-decoration-color: yellow;
+
+}
+.underline2:hover{
+  text-decoration-color: yellow;
+
+}
+.underline3:hover{
+  text-decoration-color: yellow;
+
+}
